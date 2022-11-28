@@ -67,6 +67,7 @@ h1{
 
 /*ending Section-1 style ending*/
 
+/*Section-2 style*/
 .section-2{
     background-color: #f9fcfc;
     height:300px;
@@ -98,6 +99,7 @@ h1{
 }
 /*ending Section-2 style ending*/
 
+/*Section-3 style*/
 .section-3{
     height:300px;
     background-color:#E5E7EB;
@@ -110,4 +112,44 @@ h1{
     font-style:italic;
     color: #1F2937;
     width: 700px;
+}
+/*ending Section-3 style ending*/
+
+/*Section-4 style*/
+.section-4{
+    background-color: #f9fcfc;
+    height:300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-to-action{
+    /* background-color:rgb(68, 141, 250); */
+    background-color:rgb(53, 106, 250);
+    height: 150px;
+    width: 70%;
+    border-radius: 10px;
+    /* padding: 10px; */
+    display: flex;
+    justify-content: space-around;
+}
+.call-to-action h3{
+    font-size: 28px;
+    color: #F9FAF8;
+}
+.call-to-action p{
+    color: #F9FAF8;
+    font-size: 20px;
+}
+.call-to-action button{
+   
+    border: 2px solid   #F9FAF8;
+    border-radius: 10px;
+    background-color: rgb(53, 106, 250);
+    font-size: 20px;
+    color: #F9FAF8;
+    height: 40px;
+    width: 120px;
+    align-self: center;
 }
