@@ -68,6 +68,32 @@ h1{
 /*ending Section-1 style ending*/
 
 .section-2{
-    background-color: #3882F6;
-    height:500px;
+    background-color: #f9fcfc;
+    height:300px;
+    
 }
+
+.section-2 h2{
+ font-size: 46px ;
+ font-weight:bolder;
+ color: #1F2937;
+ text-align: center;
+}
+
+.images-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.images-container img{
+    width: 180px;
+    height:200px;
+    border-radius: 25px;
+}
+.images-container p{
+    font-size: 20px;
+    color: #1F2937;
+    width: 200px;
+}
+
