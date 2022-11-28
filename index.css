@@ -96,4 +96,18 @@ h1{
     color: #1F2937;
     width: 200px;
 }
+/*ending Section-2 style ending*/
 
+.section-3{
+    height:300px;
+    background-color:#E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section-3 p{
+    font-size: 36px;
+    font-style:italic;
+    color: #1F2937;
+    width: 700px;
+}
